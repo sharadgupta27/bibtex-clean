@@ -1,5 +1,5 @@
 """
-@author: Sharad Kumar Gupta, Vanshika Gupta
+@author: Sharad Kumar Gupta
 """
 
 import re
