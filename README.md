@@ -14,7 +14,7 @@ pip install tk
 
 1. Run the script:
    ```bash
-   python clean_bibtex.py
+   python bibtex-clean.py
    ```
 2. A file dialog will open. Select the `.bib` file you want to clean.
 3. Another file dialog will open. Choose a location and name for the cleaned `.bib` file.
