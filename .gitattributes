@@ -1,3 +1,4 @@
 *.tex linguist-detectable=false
 *.md linguist-detectable=false   # if you have markdown docs to ignore
 *.rst linguist-detectable=false  # if you have reStructuredText docs to ignore
+*.* linguist-language=Python
